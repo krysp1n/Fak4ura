@@ -91,3 +91,15 @@ body {
     white-space: nowrap;
     line-height: 40px; /* Vertically center the text there */
 }
+
+
+
+
+
+#cat {
+    z-index: 2;
+    position: absolute;
+    width: 950px;
+    top: 6%;
+    left: 12%;
+}
